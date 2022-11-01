@@ -1,0 +1,6 @@
+logs
+wp-admin
+wp-includes
+**/wp-content/themes
+**/wp-content/fonts
+**/wp-content/plugins
